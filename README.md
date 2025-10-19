@@ -1,7 +1,7 @@
 # Hi there, I'm Neal Kapadia! 👋
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=2E86AB&center=true&vCenter=true&width=500&lines=Computer+Engineering+Student;AI+%26+ML+Enthusiast;Hackathon+Winner;Full-Stack+Developer" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=2E86AB&center=true&vCenter=true&width=600&lines=Computer+Engineering+Student;AI+%26+ML+Enthusiast;Tennis+%26+Golf+Player;Piano+Enthusiast;Anime+Fan;Full-Stack+Developer" alt="Typing SVG" />
 </div>
 
 <div align="center">
@@ -21,7 +21,13 @@
 🏆 **2x Hackathon Winner** - HackRice 15 & HackAI 2025  
 💼 **SWE Intern** - Built ETL pipeline reducing processing time by 90%  
 
-**Seeking Summer 2025 SWE/ML internships**
+## 🎯 Beyond Code
+
+🎾 **Tennis & Golf** - Love being on the court and course  
+🎹 **Piano** - Classical pieces and anime soundtracks  
+🏋️ **Weightlifting** - Staying strong in body and mind  
+📺 **Anime** - Always down for recommendations!  
+🧬 **Biotechnology** - Fascinated by the intersection of tech and biology
 
 ---
 
@@ -79,10 +85,15 @@
 
 ---
 
-## � Tetchnologies
+## 📊 GitHub Analytics
 
 <div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=NealKapadia&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NealKapadia&layout=compact&langs_count=6&theme=tokyonight"/>
+</div>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=NealKapadia&theme=tokyonight" alt="GitHub Streak" />
 </div>
 
 ---
@@ -100,7 +111,7 @@
 
 ### 💬 Let's Connect!
 
-*I'm always excited to discuss new opportunities, collaborate on projects, or chat about the latest in AI and software development!*
+*I'm always excited to discuss new opportunities, collaborate on projects, or chat about tennis, anime, or the latest in AI and software development!*
 
 [![LinkedIn](https://img.shields.io/badge/Let's_Connect_on_LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/nealkapadia)
 
