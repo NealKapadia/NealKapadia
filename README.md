@@ -1,7 +1,7 @@
 # Hi there, I'm Neal Kapadia! 👋
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=2E86AB&center=true&vCenter=true&width=600&lines=Computer+Engineering+Student;AI+%26+Machine+Learning+Enthusiast;Full-Stack+Developer;Hackathon+Winner" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=2E86AB&center=true&vCenter=true&width=500&lines=Computer+Engineering+Student;AI+%26+ML+Enthusiast;Hackathon+Winner;Full-Stack+Developer" alt="Typing SVG" />
 </div>
 
 <div align="center">
@@ -9,7 +9,6 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/nealkapadia)
 [![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white)](https://nealkapadia.vercel.app)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nrk220003@utdallas.edu)
-[![Phone](https://img.shields.io/badge/Phone-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](tel:972-979-6413)
 
 </div>
 
@@ -17,21 +16,12 @@
 
 ## 🚀 About Me
 
-🎓 **Computer Engineering Student** at UT Dallas (GPA: 3.84) with a **Full-Ride Academic Excellence Scholarship**  
-🔬 **Research Assistant** developing AI-powered solutions for next-gen battery technology  
-💼 **Software Engineering Intern** with experience at Priro Systems Inc.  
-🏆 **Hackathon Champion** - Multiple first-place wins in AI/ML competitions  
-🌱 Currently exploring **Generative AI**, **Machine Learning**, and **Full-Stack Development**
+🎓 **Computer Engineering @ UT Dallas** (GPA: 3.84) • **Full-Ride Scholar**  
+🔬 **Research Assistant** - AI for battery optimization (R² = 0.82 accuracy)  
+🏆 **2x Hackathon Winner** - HackRice 15 & HackAI 2025  
+💼 **SWE Intern** - Built ETL pipeline reducing processing time by 90%  
 
----
-
-## 💼 What I'm Looking For
-
-I'm actively seeking **Summer 2025 internship opportunities** in:
-- **Software Engineering** (Full-Stack, Backend, Frontend)
-- **Machine Learning Engineering**
-- **AI/Data Science** roles
-- **Research & Development** positions
+**Seeking Summer 2025 SWE/ML internships**
 
 ---
 
@@ -89,36 +79,20 @@ I'm actively seeking **Summer 2025 internship opportunities** in:
 
 ---
 
-## 📊 GitHub Analytics
+## � Tetchnologies
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=NealKapadia&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NealKapadia&layout=compact&langs_count=8&theme=tokyonight"/>
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=NealKapadia&theme=tokyonight" alt="GitHub Streak" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NealKapadia&layout=compact&langs_count=6&theme=tokyonight"/>
 </div>
 
 ---
 
-## 🎯 Current Focus
+## 📈 Key Achievements
 
-🔬 **Research:** Developing generative-predictive AI for battery optimization (R² = 0.82 accuracy)  
-💡 **Learning:** Advanced Machine Learning, Cloud Computing, System Design  
-🚀 **Building:** Next-generation AI applications and full-stack solutions
-
----
-
-## 📈 Experience Highlights
-
-**🔬 Research Assistant** - UT Dallas Laisuo Research Group  
-- Engineered closed-loop AI pipeline for novel battery additive design
-- Achieved 97.65% predicted efficiency with XGBoost model
-
-**💻 Software Engineering Intern** - Priro Systems Inc.  
-- Built ETL pipeline reducing processing time by 90%
-- Full-stack development with Python, React, Django, PostgreSQL
+**🔬 Research** - Engineered AI pipeline for battery optimization • 97.65% efficiency prediction  
+**💻 Internship** - Built ETL pipeline • 90% processing time reduction  
+**🏆 Hackathons** - 2 first-place wins in AI/ML competitions  
+**🎓 Academic** - 3.84 GPA • Full-ride scholarship recipient
 
 ---
 
